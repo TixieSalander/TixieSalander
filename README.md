@@ -1,15 +1,14 @@
-## Hi there 👋
 
-![decorative banner](https://user-images.githubusercontent.com/2143796/190794227-d8f9489b-d767-4525-b7a5-4186c1cb3c15.jpg)
+![decorative banner](https://user-images.githubusercontent.com/2143796/190797847-5bf55b56-cab2-4e51-9011-4f37874d54b9.png)
 
 
-### Dayjob
+## 💼 Dayjob
 I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as lead frontend developer so feel free to ping me about the frontend part of their open-sources projects, such as:
-  - I'm helping maintain [Higgcss](https://github.com/robinparisi/higgcss), a minimalist and agnostic SASS mini framework
-  - [Dropmic](https://github.com/agence-webup/dropmic): a very simplistic dropdown menu plugin
+  - [Higgcss](https://github.com/robinparisi/higgcss), a minimalist and agnostic SASS mini framework I'm helping to maintain
+  - [Dropmic](https://github.com/agence-webup/dropmic): a very simplistic dropdown menu plugin I made a few years back
 
-### My studio
-When I have some time left and supposing life wasnt too much a beach with me, I often eat thinking sand at [Guerilla.Studio](https://github.com/GuerillaStudio), my “*two-women-one-cat-in-a-trenchcoat little studio*” as I like to call it. We made for example:
+## ∴ My studio
+When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guerilla.Studio](https://github.com/GuerillaStudio), my “*two-women-one-cat-in-a-trenchcoat little studio*” as I like to call it. We made for example:
 
 ![](https://user-images.githubusercontent.com/2143796/190781039-9961c51a-0450-4a1c-a288-4c4abf5c3caa.png)
 [Souvenir](https://github.com/GuerillaStudio/souvenir): A progressive web app to capture few seconds of your webcam/camera and generate a gif
@@ -24,15 +23,16 @@ When I have some time left and supposing life wasnt too much a beach with me, I 
 [Now Playing](https://github.com/GuerillaStudio/now-playing): A repository showcasing music albums we like to play at the studio
 
 
-### Contact
+## Contact
 
-💬 You can ask me:
+### 💬 You can ask me
+
 - Everything about CSS, I love this shit.
 - Also probably anything about a lot of frontend web developpement stuf, just I'm not a JavaScript-bro, don't get me wrong, I probably dont know that last trendy react-jamstack-magical tool).
 
 
 
-📫 You can reach me:
+### 📫 You can reach me
 
 - On Mastodon at [tixie@glitch.social](https://glitch.social/@tixie)
 - On Twitter at [@Tixie_](twitter.com/Tixie_)
