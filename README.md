@@ -6,6 +6,7 @@
 I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as lead frontend developer so feel free to ping me about the frontend part of their open-sources projects, such as:
   - [Higgcss](https://github.com/robinparisi/higgcss) — A minimalist and agnostic SASS mini framework I'm helping to maintain
   - [Dropmic](https://github.com/agence-webup/dropmic) — A very simplistic dropdown menu plugin I made a few years back
+  - [Ginguette](https://github.com/agence-webup/guinguette) — A accordion vanilla-JS plugin with a french name
 
 ## ∴ My studio
 When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guerilla.Studio](https://github.com/GuerillaStudio), my “*two-women-one-cat-in-a-trenchcoat little studio*” as I like to call it. We made for example:
