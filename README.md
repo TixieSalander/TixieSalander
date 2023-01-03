@@ -15,7 +15,7 @@ When I have some time left and supposing life wasn't too much of a beach with me
 [Souvenir](https://github.com/GuerillaHQ/souvenir) — A progressive web app to capture few seconds of your webcam/camera and generate a gif
 
 ![](https://user-images.githubusercontent.com/2143796/190781008-2ef4009d-688f-4c3a-a8ab-8c2a831ebc4b.png)
-[Eldritch Radio](https://github.com/EldritchCafe/radio) — A fediverse's publications based webradio 
+[Eldritch Radio](https://github.com/EldritchCafe/radio) — A fediverse's publications based webradio
 
 ![](https://user-images.githubusercontent.com/2143796/190781052-c38c6afc-872a-43c6-91dd-462e5cc2891f.png)
 [Vanilla List](https://github.com/GuerillaHQ/vanillalist) — A repository of great vanilla JS plugins
@@ -42,7 +42,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 
 **📫 You can reach me**
 
-- On Mastodon at [tixie@glitch.social](https://glitch.social/@tixie)
+- On Mastodon at [@tixie@glitch.social](https://glitch.social/@tixie)
 - On Twitter at [@Tixie_](twitter.com/Tixie_)
 - On Telegram at [@TixieBorg](https://t.me/TixieBorg)
 
