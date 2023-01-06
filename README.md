@@ -42,7 +42,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 
 **📫 You can reach me**
 
-- On Mastodon at [@tixie@glitch.social](https://glitch.social/@tixie)
+- On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie)
 - On Twitter at [@Tixie_](twitter.com/Tixie_)
 - On Telegram at [@TixieBorg](https://t.me/TixieBorg)
 
