@@ -9,7 +9,7 @@ I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as le
   - [Ginguette](https://github.com/agence-webup/guinguette) — A accordion vanilla-JS plugin with a french name
 
 ## ∴ My studio
-When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guérilla](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat little studio*” as I like to call it. We made for example:
+When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. We made for example:
 
 ![](https://user-images.githubusercontent.com/2143796/190781039-9961c51a-0450-4a1c-a288-4c4abf5c3caa.png)
 [Souvenir](https://github.com/GuerillaHQ/souvenir) — A progressive web app to capture few seconds of your webcam/camera and generate a gif
