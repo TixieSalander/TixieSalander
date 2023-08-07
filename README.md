@@ -7,6 +7,7 @@ I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as le
   - [Higgcss](https://github.com/robinparisi/higgcss) — A minimalist and agnostic SASS mini framework I'm helping to maintain
   - [Dropmic](https://github.com/agence-webup/dropmic) — A very simplistic dropdown menu plugin I made a few years back
   - [Ginguette](https://github.com/agence-webup/guinguette) — A accordion vanilla-JS plugin with a french name
+  - [Tiroir](https://github.com/agence-webup/tiroir) — A drawer menu vanilla-JS plugin handling multi-level navigation
 
 ## ∴ My studio
 When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. We made for example:
