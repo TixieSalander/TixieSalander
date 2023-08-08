@@ -36,12 +36,12 @@ You can buy me a coffee on my Ko-Fi page (well actually more probably a cup of h
 
 I'm also considering joining the Github sponsorship program in the future if people are interested but feel free to reach me if you have specitic demands.
 
-## Contact infos
+## ✍️ Contact infos
 
 **💬 You can ask me**
 
 - Everything about CSS, I love this shit.
-- Also probably anything about a lot of frontend web developpement stuf, just I'm not a JavaScript-bro, don't get me wrong, I probably dont know that last trendy react-jamstack-magical tool).
+- Also probably anything about a lot of frontend web developpement, just I'm not a “JavaScript-bro”. Don't get me wrong, I've being doing frontend stuff for more than 10 years know, just I probably don't have an opinion to give you on that last *\~trendy\~* react-jamstack-tailwind-webpack-magical tool).
 
 
 
