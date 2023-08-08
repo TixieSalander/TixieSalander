@@ -10,7 +10,7 @@ I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as le
   - [Tiroir](https://github.com/agence-webup/tiroir) — A drawer menu vanilla-JS plugin handling multi-level navigation
 
 
-## ∴ My studio
+## ![](https://github.com/TixieBorg/TixieBorg/assets/2143796/82e3f778-cbcf-41a1-b129-86e68e9bec69) My studio
 When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. We made for example:
 
 ![](https://github.com/TixieBorg/TixieBorg/assets/2143796/ef5f5e44-f13b-4f1b-9913-8a3960d868d3)
