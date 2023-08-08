@@ -48,7 +48,9 @@ I'm also considering joining the Github sponsorship program in the future if peo
 **📫 You can reach me**
 
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie)
-- On Twitter at [@Tixie_](twitter.com/Tixie_)
 - On Telegram at [@TixieBorg](https://t.me/TixieBorg)
+- On Bluesky at [@tixie.bsky.social](https://bsky.app/profile/tixie.bsky.social) (I don't go there often)
+- On Twitter at [@Tixie_](twitter.com/Tixie_) (*Deprecated*💀)
+
 
 Remember I don't owe you my kindness, I'm counting on you to be respectful ❤️
