@@ -14,7 +14,7 @@ I'm currently working at [l'Agence Webup](https://github.com/agence-webup) as le
 When I have some time left and supposing life wasn't too much of a beach with me, I often eat thinking sand at ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. We made for example:
 
 ![](https://github.com/TixieBorg/TixieBorg/assets/2143796/ef5f5e44-f13b-4f1b-9913-8a3960d868d3)
-[Placehold.in](https://github.com/GuerillaHQ/placehold.in) — A quick way to display placeholder images during mockups and developement 
+[Placehold.in](https://github.com/GuerillaHQ/placehold.in) — A quick way to display placeholder images during mockups and development 
 
 ![](https://user-images.githubusercontent.com/2143796/190781039-9961c51a-0450-4a1c-a288-4c4abf5c3caa.png)
 [Souvenir](https://github.com/GuerillaHQ/souvenir) — A progressive web app to capture few seconds of your webcam/camera and generate a gif
@@ -41,7 +41,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 **💬 You can ask me**
 
 - Everything about CSS, I love this shit.
-- Also probably anything about a lot of frontend web developpement, just I'm not a “JavaScript-bro”. Don't get me wrong, I've being doing frontend stuff for more than 10 years know, just I probably don't have an opinion to give you on that last *\~trendy\~* react-jamstack-tailwind-webpack-magical tool).
+- Also probably anything about a lot of frontend web development, just I'm not a “JavaScript-bro”. Don't get me wrong, I've being doing frontend stuff for more than 10 years know, just I probably don't have an opinion to give you on that last *\~trendy\~* react-jamstack-tailwind-webpack-magical tool).
 
 
 
