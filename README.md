@@ -33,9 +33,7 @@ When I have some time left and supposing life wasn't too much of a beach with me
 
 You can buy me a coffee on my Ko-Fi page (well actually more probably a cup of hot chocolate, some muffins and a new pair of socks for the next winter):
 
-[![Support me on Ko-fi](https://github.com/TixieBorg/TixieBorg/assets/2143796/359d7e38-7ac0-4339-8d3a-af7b12e3c555)](https://ko-fi.com/tixie_)
-
-
+[![Support me on Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tixie_)
 
 
 I'm also considering joining the Github sponsorship program in the future if people are interested but feel free to reach me if you have specitic demands.
