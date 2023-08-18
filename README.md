@@ -51,7 +51,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie) (main place)
 - On Telegram at [@TixieSalander](https://t.me/TixieSalander)
-- On Cohost at [@tixie](https://cohost,org/tixie) (I don't go there often)
+- On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
 - On Bluesky at [@tixie.bsky.social](https://bsky.app/profile/tixie.bsky.social) (I don't go there often)
 
 
