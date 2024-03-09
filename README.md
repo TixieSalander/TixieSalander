@@ -56,7 +56,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie) (main place)
 - On Telegram at [@TixieSalander](https://t.me/TixieSalander)
-- On Signal at [@tixie.01](https://signal.me/#eu/qGlr+dGbzAbCqNNnTyAw26QeMVj1cNnw5G2kDAhKMPY3nFyqHxpC3bVGHpUgkYUE) (currently still in beta <sup>[[link]](https://www.signal.org/blog/phone-number-privacy-usernames/)</sup>)
+- On Signal at [@tixie.01](https://signal.me/#eu/qGlr+dGbzAbCqNNnTyAw26QeMVj1cNnw5G2kDAhKMPY3nFyqHxpC3bVGHpUgkYUE)
 - On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
 - On Bluesky at [@tixie.bsky.social](https://bsky.app/profile/tixie.bsky.social) (I don't go there often)
 
