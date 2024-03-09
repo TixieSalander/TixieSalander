@@ -43,7 +43,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 
 ## ✍️ Contact infos
 
-<img src="https://github.com/TixieSalander/TixieSalander/assets/2143796/f3b2bfdf-d618-41f6-808a-afb5d49efdf4" alt="me" width="20%" style="max-width: 70vw; height: auto; aspect-ratio: 542 / 1177;" align="left">
+<img src="https://github.com/TixieSalander/TixieSalander/assets/2143796/c3a71618-7fe5-489a-8e90-10498715acf6" alt="me" width="17%" style="max-width: 50vw; height: auto; aspect-ratio: 542 / 1177;" align="left">
 
 **💬 You can ask me**
 
@@ -64,6 +64,4 @@ I'm also considering joining the Github sponsorship program in the future if peo
 Remember I don't owe you my kindness, I'm counting on you to be respectful ❤️
 
 <br clear="left"/>
-
-![profile](https://github.com/TixieSalander/TixieSalander/assets/2143796/c3a71618-7fe5-489a-8e90-10498715acf6)
 
