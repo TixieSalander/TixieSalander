@@ -64,3 +64,6 @@ I'm also considering joining the Github sponsorship program in the future if peo
 Remember I don't owe you my kindness, I'm counting on you to be respectful ❤️
 
 <br clear="left"/>
+
+![profile](https://github.com/TixieSalander/TixieSalander/assets/2143796/c3a71618-7fe5-489a-8e90-10498715acf6)
+
