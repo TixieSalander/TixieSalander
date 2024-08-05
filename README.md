@@ -1,5 +1,4 @@
-
-![decorative banner](https://user-images.githubusercontent.com/2143796/190797847-5bf55b56-cab2-4e51-9011-4f37874d54b9.png)
+![decorative banner](https://github.com/user-attachments/assets/9620b6b5-b29d-4e70-9350-63b1fc4db832)
 
 ## ![](https://github.com/TixieSalander/TixieSalander/assets/2143796/82e3f778-cbcf-41a1-b129-86e68e9bec69) My studio
 Starting 2024, I'm focusing full-time into my own smaller organization: ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. \
@@ -32,7 +31,7 @@ During that time I've work on some open-source projects as well, such as:
   - [Tiroir](https://github.com/agence-webup/tiroir) — A drawer menu vanilla-JS plugin handling multi-level navigation
 
 
-## ❤️ Support me
+## 🩷 Support me
 
 You can help me financially on my Ko-Fi page (well actually more probably a cup of hot chocolate, some muffins and a new pair of socks for next winter):
 
@@ -60,7 +59,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 - On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
 
 
-Remember I don't owe you my kindness, I'm counting on you to be respectful ❤️
+Remember I don't owe you my kindness, I'm counting on you to be respectful 🩷
 
 <br clear="left"/>
 
