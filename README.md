@@ -1,25 +1,25 @@
 ![decorative banner](https://github.com/user-attachments/assets/9620b6b5-b29d-4e70-9350-63b1fc4db832)
 
 ## ![](https://github.com/TixieSalander/TixieSalander/assets/2143796/82e3f778-cbcf-41a1-b129-86e68e9bec69) My studio
-Starting 2024, I'm focusing full-time into my own smaller organization: ∴[Guérilla.Studio](https://github.com/GuerillaHQ), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. \
+Starting 2024, I'm focusing full-time into my own smaller organization: ∴[Guérilla.Studio](https://github.com/GuerillaStudio), my “*two-women-one-cat-in-a-trenchcoat* little collective” as I like to call it. \
 We work our very best at making a web a little bit more **inclusive**, **accessible**, and ~~anti-capitalist~~ **ethical** by making & maintaining independent software along with helping other organizations and open-source initiatives embracing those values.
 
 We made for example:
 
 ![](https://github.com/TixieSalander/TixieSalander/assets/2143796/ef5f5e44-f13b-4f1b-9913-8a3960d868d3)
-[Placehold.in](https://github.com/GuerillaHQ/placehold.in) — A quick way to display placeholder images during mockups and development <sup>(2023)</sup>
+[Placehold.in](https://github.com/GuerillaStudio/placehold.in) — A quick way to display placeholder images during mockups and development <sup>(2023)</sup>
 
 ![](https://user-images.githubusercontent.com/2143796/190781008-2ef4009d-688f-4c3a-a8ab-8c2a831ebc4b.png)
 [Eldritch Radio](https://github.com/EldritchCafe/radio) — A fediverse's publications based webradio <sup>(2020)</sup>
 
 ![](https://user-images.githubusercontent.com/2143796/190781039-9961c51a-0450-4a1c-a288-4c4abf5c3caa.png)
-[Souvenir](https://github.com/GuerillaHQ/souvenir) — A progressive web app to capture few seconds of your webcam/camera and generate a gif <sup>(2019)</sup>
+[Souvenir](https://github.com/GuerillaStudio/souvenir) — A progressive web app to capture few seconds of your webcam/camera and generate a gif <sup>(2019)</sup>
 
 ![](https://user-images.githubusercontent.com/2143796/190781052-c38c6afc-872a-43c6-91dd-462e5cc2891f.png)
-[Vanilla List](https://github.com/GuerillaHQ/vanillalist) — A repository of curated vanilla-JS plugins <sup>(since 2017)</sup>
+[Vanilla List](https://github.com/GuerillaStudio/vanillalist) — A repository of curated vanilla-JS plugins <sup>(since 2017)</sup>
 
 ![](https://user-images.githubusercontent.com/2143796/190786370-25533da9-39a5-4238-9e28-06f3476e794c.png)
-[Now Playing](https://github.com/GuerillaHQ/now-playing) — A repository showcasing music albums we like to play at the studio <sup>(2016)</sup>
+[Now Playing](https://github.com/GuerillaStudio/now-playing) — A repository showcasing music albums we like to play at the studio <sup>(2016)</sup>
 
 
 ## Previous job
@@ -54,8 +54,8 @@ I'm also considering joining the Github sponsorship program in the future if peo
 **📫 You can reach me**
 
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie) (main place)
-- On Telegram at [@TixieSalander](https://t.me/TixieSalander)
 - On Signal at [@tixie.01](https://signal.me/#eu/qGlr+dGbzAbCqNNnTyAw26QeMVj1cNnw5G2kDAhKMPY3nFyqHxpC3bVGHpUgkYUE)
+- On Telegram at [@TixieSalander](https://t.me/TixieSalander)
 - On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
 
 
