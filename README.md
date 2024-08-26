@@ -54,7 +54,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 **📫 You can reach me**
 
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie) (main place)
-- On Signal at [@tixie.01](https://signal.me/#eu/qGlr+dGbzAbCqNNnTyAw26QeMVj1cNnw5G2kDAhKMPY3nFyqHxpC3bVGHpUgkYUE)
+- On Signal at [@tixie.10](https://signal.me/#eu/7FLxqN43lF5bR0zeaXlf88viNJg3pp--SH-dsDd-M_CAnbksQnZKFZwi8dsk5xMW)
 - On Telegram at [@TixieSalander](https://t.me/TixieSalander)
 - On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
 
