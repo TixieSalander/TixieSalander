@@ -40,6 +40,9 @@ You can help me financially on my Ko-Fi page (well actually more probably a cup 
 
 I'm also considering joining the Github sponsorship program in the future if people are interested but feel free to reach me if you have specitic demands.
 
+Third option is to go through my [Throne wishlist](https://throne.com/tixie) if you feel gifting me with something (I'm still working on
+it 🆕)
+
 ## ✍️ Contact infos
 
 <img src="https://github.com/TixieSalander/TixieSalander/assets/2143796/c3a71618-7fe5-489a-8e90-10498715acf6" alt="me" width="17%" style="max-width: 50vw; height: auto; aspect-ratio: 542 / 1177;" align="left">
