@@ -59,8 +59,6 @@ it 🆕)
 - On Mastodon at [@tixie@guerilla.studio](https://guerilla.studio/@tixie) (main place)
 - On Signal at [@tixie.10](https://signal.me/#eu/7FLxqN43lF5bR0zeaXlf88viNJg3pp--SH-dsDd-M_CAnbksQnZKFZwi8dsk5xMW)
 - On Telegram at [@TixieSalander](https://t.me/TixieSalander)
-- On Cohost at [@tixie](https://cohost.org/tixie) (I don't go there often)
-
 
 Remember I don't owe you my kindness, I'm counting on you to be respectful 🩷
 
