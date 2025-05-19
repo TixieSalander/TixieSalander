@@ -35,13 +35,13 @@ During that time I've work on some open-source projects as well, such as:
 
 You can help me financially on my Ko-Fi page (well actually more probably a cup of hot chocolate, some muffins and a new pair of socks for next winter):
 
-[![Support me on Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tixie_)
+[![Support me on Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tixie_) 
 
+And more recently on LiberaPay:
+
+[![donate-LiberaPay](https://github.com/user-attachments/assets/03db53c9-a181-49d4-ad05-7d90f0099969)](https://liberapay.com/Tixie)
 
 I'm also considering joining the Github sponsorship program in the future if people are interested but feel free to reach me if you have specific demands.
-
-Third option is to go through my [Throne wishlist](https://throne.com/tixie) if you feel gifting me with something (I'm still working on
-it 🆕)
 
 ## ✍️ Contact infos
 
