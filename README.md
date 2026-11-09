@@ -50,7 +50,7 @@ I'm also considering joining the Github sponsorship program in the future if peo
 **💬 You can ask me**
 
 - Everything about CSS, I love this shit.
-- Also probably anything about a lot of frontend web development, just I'm not a “JavaScript-bro”. Don't get me wrong, I've being doing frontend stuff for more than 10 years know, just I may not have an opinion to give you on that last *\~trendy\~* react-tailwind-webpack-magical tool you recently heard about).
+- Also probably anything about a lot of frontend web development, just I'm not a “JavaScript-bro”. Don't get me wrong, I've been doing frontend stuff for more than 10 years now, just I may not have an opinion to give you on that last *\~trendy\~* react-tailwind-webpack-magical tool you recently heard about).
 
 
 
